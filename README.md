@@ -2,10 +2,12 @@
 
 PyTorch implementation of our paper Fast and Accurate Semantic Segmentation with Dilated Asymmetric Convolutions, codes and pretrained models.
 The paper is already available online at [IEEEXplore](https://ieeexplore.ieee.org/document/9413176).
+
 Demo is available on Youtube: https://youtu.be/EcOnj-XOfv8.
 
 
 Training was done using 2x NVIDIA TITAN RTX GPUs and Python 3.6.9.
+
 Speed was measured on a single NVIDIA GTX 1080ti GPU and an Intel Core i7-9700K processor.
 
 ### Requirements
